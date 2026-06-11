@@ -77,8 +77,8 @@ Menu de acessibilidade com controle de fonte e contraste;
 casa.jpg  Retirado do site wikimedia Commons ()
 campo.jpg (se for da IA inserir aqui o prompt)
 👨‍🎓 Autoria
-Autor(a): Nome do(a) estudante
-Professor(a) orientador(a): Nome do(a) professor(a)
+Autor(a): Patricia Kloster Palhano
+Professor(a) orientador(a): Alexandra Terezinha Kapusinski
 Escola: Nome da instituição de ensino
 Município: Guarapuava – Paraná
 
