@@ -5,7 +5,7 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 📌 Sobre o Projeto
-O projeto “Agricultura Inteligente e Sustentavel” (explique o seu projeto, o que ele apresenta)
+O projeto “Agricultura Inteligente e Sustentavel” (promove práticas agrícolas modernas que aumentam a produtividade sem comprometer os recursos naturais, garantindo um futuro mais sustentável para todos.)
 
 Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 
