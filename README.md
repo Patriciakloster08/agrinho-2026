@@ -1,4 +1,4 @@
-🌾 Agro forte sustentavel
+🌾 Agricultura Inteligente e Sustentavel
 Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, na Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript.
 
 🌱 Tema do Concurso
@@ -8,8 +8,6 @@ Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 O projeto “Título do projeto” (explique o seu projeto, o que ele apresenta)
 
 Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
-🎯 Objetivo
-O objetivo do projeto é ......................................
 
 O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
 
@@ -79,8 +77,8 @@ campo.jpg (se for da IA inserir aqui o prompt)
 👨‍🎓 Autoria
 Autor(a): Patricia Kloster Palhano
 Professor(a) orientador(a): Alexandra Terezinha Kapusinski
-Escola: Nome da instituição de ensino
-Município: Guarapuava – Paraná
+Escola: CCM Edite Cordeiro Marques-EFM
+Município: Turvo – Paraná
 
 🖼️ Créditos dos Recursos Utilizados
 As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste projeto foram produzidos ou organizados para fins educacionais no contexto do Concurso Agrinho 2026.
