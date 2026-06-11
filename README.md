@@ -1,107 +1,57 @@
-🌾 Agricultura Inteligente e Sustentavel
-Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, na Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript.
+🌱 AgroForte | Futuro Sustentável
+📖 Sobre o Projeto
 
-🌱 Tema do Concurso
-Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
+O AgroForte Futuro Sustentável é um site desenvolvido com o objetivo de apresentar tecnologias inovadoras voltadas para a agricultura sustentável. O projeto destaca soluções modernas que ajudam a aumentar a produtividade no campo, reduzir desperdícios e preservar os recursos naturais.
 
-📌 Sobre o Projeto
-O projeto “Agricultura Inteligente e Sustentavel” (promove práticas agrícolas modernas que aumentam a produtividade sem comprometer os recursos naturais, garantindo um futuro mais sustentável para todos.)
+A plataforma possui um design moderno inspirado em tecnologia e sustentabilidade, além de recursos de acessibilidade para melhorar a experiência dos usuários.
 
-Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
-
-O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
-
-🧭 Funcionalidades do Site
-O projeto conta com as seguintes funcionalidades:
-
-🏠 Página inicial com apresentação do tema;
-📱 Menu de navegação responsivo;
-🌾 Seção explicativa sobre a produção relacionada ao meio ambiente;
-♿ Botão de acessibilidade;
-🔠 Opção de aumentar e diminuir fonte;
-🌓 Modo de alto contraste;
-📲 Layout adaptado para diferentes tamanhos de tela. (nem todos têm)
-💻 Tecnologias Utilizadas
-O projeto foi desenvolvido utilizando apenas tecnologias básicas de front-end:
+🚀 Tecnologias Utilizadas
 HTML5
 CSS3
 JavaScript
-✅ Os arquivos de estilo e script estão separados e corretamente declarados.
-
-📁 Estrutura de Arquivos
-/
+Google Fonts (Poppins e Orbitron)
+🌾 Funcionalidades
+Página Inicial
+Apresentação do projeto AgroForte.
+Destaque para a agricultura sustentável.
+Botão de navegação para explorar as tecnologias.
+Tecnologias do Futuro
+🚁 Drones Agrícolas
+☀️ Energia Solar
+🤖 Inteligência Artificial no Campo
+Impacto Sustentável
+Indicadores de economia de água.
+Redução de desperdícios.
+Uso de energia renovável.
+Recursos de Acessibilidade
+Aumento de fonte (A+)
+Redução de fonte (A-)
+Alto contraste
+Fonte amigável para dislexia
+Leitura de texto por voz
+📂 Estrutura do Projeto
+AgroForte/
+│
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-├── img/
-│   ├── logo.png
-│   ├── Hero.png
-│   ├── Campo.png
-│   ├── Malte.png
-│   ├── Cidade.png
-│   ├── Clipe.mp4
-│   ├── github.png
-│   └── instagram.png
-    header.css (nem todos têm)
-▶️ Como Executar o Projeto
-Para visualizar o projeto:
-É possível acessar o projeto publicado pelo GitHub Pages, por meio do link disponível na seção About deste repositório.
+│
+└── img/
+    ├── drone no agro.webp
+    ├── painel solar no agro.webp
+    └── agricultura inteligente.avif
+🎯 Objetivo
+
+Promover a conscientização sobre a importância da tecnologia e da sustentabilidade no agronegócio, demonstrando como a inovação pode contribuir para uma produção agrícola mais eficiente e responsável.
 
 ♿ Acessibilidade
-O projeto inclui recursos de acessibilidade para melhorar a experiência dos usuários:
 
-🔠 Botão para aumentar o tamanho da fonte;
-🔡 Botão para diminuir o tamanho da fonte;
-🌓 Modo de alto contraste;
-🖼️ Textos alternativos em imagens;
+O projeto foi desenvolvido com foco na inclusão digital, oferecendo ferramentas que facilitam o acesso ao conteúdo para diferentes perfis de usuários.
 
+👨‍💻 Desenvolvedor
 
-🌿 Sustentabilidade
-O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produção e meio ambiente, como:
+Patricia Kloester
 
-🧠 Conceitos de Programação Aplicados
-Durante o desenvolvimento do projeto, foram aplicados conceitos importantes de programação front-end, como:
+Projeto educacional desenvolvido para demonstrar conceitos de sustentabilidade, inovação tecnológica e acessibilidade aplicados ao agronegócio.
 
-Estruturação semântica com HTML;
-Estilização com CSS externo;
-Uso de variáveis CSS;
-Responsividade com media queries;Manipulação do DOM com JavaScript;
-
-
-Menu de acessibilidade com controle de fonte e contraste;
-
-🖼️ Galeria de Imagens
-casa.jpg  Retirado do site wikimedia Commons ()
-campo.jpg (se for da IA inserir aqui o prompt)
-👨‍🎓 Autoria
-Autor(a): Patricia Kloster Palhano
-Professor(a) orientador(a): Alexandra Terezinha Kapusinski
-Escola: CCM Edite Cordeiro Marques-EFM
-Município: Turvo – Paraná
-
-🖼️ Créditos dos Recursos Utilizados
-As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste projeto foram produzidos ou organizados para fins educacionais no contexto do Concurso Agrinho 2026.
-
-Caso algum recurso tenha sido produzido com apoio de inteligência artificial, os prompts utilizados estão registrados abaixo.
-
-🤖 Prompts Genéricos de IA Utilizados
-🌾 Imagem Campo de cevada 
-Crie uma imagem realista e educativa de um campo de cevada em Guarapuava, no Paraná, com atmosfera acolhedora, luz natural suave, paisagem agrícola bem cuidada, céu limpo e sensação de conexão entre produção rural, sustentabilidade e futuro. A imagem deve transmitir equilíbrio entre o agro forte e o cuidado com o meio ambiente.
-🌱 Imagem Campo — Cultivo da cevada
-Crie uma imagem de uma lavoura de cevada em fase de crescimento, mostrando o cultivo no campo, o cuidado com o solo e a importância da agricultura sustentável. A cena deve ter cores naturais, aparência limpa, clima positivo e representar o início da cadeia produtiva do malte.
-📚 Observação sobre o Uso de IA
-As ferramentas de inteligência artificial podem ter sido utilizadas como apoio na criação de imagens, textos ou ideias visuais do projeto.
-Todos os recursos foram utilizados com finalidade educacional, respeitando o tema do concurso e com o objetivo de tornar o aprendizado mais visual, acessível e interativo.
-
-🏷️ Tags do Projeto
- tags para o GitHub: 
-
-agrinho
-agrinho2026
-
-📄 Licença
-Projeto desenvolvido exclusivamente para fins educacionais e para participação no Concurso Agrinho 2026.
-
-🌟 Considerações Finais
-O que se pode considerar a partir do projeto apresentado
+© 2026 AgroForte Futuro Sustentável.
