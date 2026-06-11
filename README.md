@@ -1,5 +1,4 @@
-# agrinho-2026
-🌾 Título do projeto
+🌾 Agro forte sustentavel
 Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, na Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript.
 
 🌱 Tema do Concurso
